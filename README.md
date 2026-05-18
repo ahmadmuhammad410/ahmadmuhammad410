@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A00FF,100:00CFFF&height=220&section=header&text=Ahmad%20Muhammad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descSize=22"/>
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+intelligent+solutions%2C+one+line+of+code+at+a+time.;AI+%7C+Software+Engineering+%7C+Problem+Solving;Always+learning+new+technologies." />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ahmad+Muhammad;Software+Developer;AI+Engineer;Software+Engineer" />
 
 </div>
 
@@ -25,12 +25,12 @@
 
 Passionate **Software Developer** with a strong foundation in designing and building robust, scalable, and efficient applications.
 
-I enjoy solving complex problems, learning emerging technologies, and transforming ideas into real-world intelligent systems.
+I love solving problems, learning new technologies, and turning ideas into real-world intelligent solutions.
 
 <div align="center">
 
-| 🎓 Computer Science Student | 💡 Problem Solver | 🚀 Lifelong Learner |
-|----------------------------|------------------|------------------|
+| 🎓 Computer Science Student | 💡 AI Engineer | 🚀 Lifelong Learner |
+|----------------------------|----------------|------------------|
 
 </div>
 
@@ -46,11 +46,14 @@ I enjoy solving complex problems, learning emerging technologies, and transformi
 ### Web Development
 <img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,bootstrap,tailwind,html,css" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,figma" />
+### AI / ML / DL
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,figma" />
 
 ### Design & Creative
 <img src="https://skillicons.dev/icons?i=blender,ps,ai" />
@@ -67,7 +70,7 @@ I enjoy solving complex problems, learning emerging technologies, and transformi
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -79,7 +82,7 @@ I enjoy solving complex problems, learning emerging technologies, and transformi
 <tr>
 <td width="50%">
 
-### 🤖 AI Image Classifier
+### 🤖 AI Image Classifier  
 Deep learning model for image classification using CNN.
 
 **Tech:**  
@@ -89,8 +92,8 @@ Deep learning model for image classification using CNN.
 
 <td width="50%">
 
-### 📋 Task Manager Web App
-Full-stack task management platform with authentication and dashboard.
+### 📋 Task Manager Web App  
+Full-stack task management system with authentication and dashboard.
 
 **Tech:**  
 `React` `Node.js` `MongoDB`
@@ -101,8 +104,8 @@ Full-stack task management platform with authentication and dashboard.
 <tr>
 <td width="50%">
 
-### 🌐 3D Portfolio Website
-Interactive 3D portfolio built using React Three Fiber.
+### 🌐 3D Portfolio Website  
+Interactive 3D portfolio built with React Three Fiber.
 
 **Tech:**  
 `React` `Three.js` `Tailwind`
@@ -111,8 +114,8 @@ Interactive 3D portfolio built using React Three Fiber.
 
 <td width="50%">
 
-### ⚙️ Algorithm Visualizer
-Visualizing sorting and searching algorithms in real time.
+### ⚙️ Algorithm Visualizer  
+Visualizing sorting and searching algorithms in real-time.
 
 **Tech:**  
 `JavaScript` `HTML` `CSS`
@@ -123,7 +126,7 @@ Visualizing sorting and searching algorithms in real time.
 <tr>
 <td width="50%">
 
-### 🎮 Game Explorer
+### 🎮 Game Explorer  
 Game discovery platform with search, filtering, and details.
 
 **Tech:**  
@@ -133,8 +136,8 @@ Game discovery platform with search, filtering, and details.
 
 <td width="50%">
 
-### 🏺 Hieroglyph Translation App
-AI-powered ancient Egyptian hieroglyph translation system.
+### 🏺 Hieroglyph Translation App  
+AI-powered ancient Egyptian hieroglyph translation and recovery.
 
 **Tech:**  
 `Computer Vision` `Deep Learning` `Mobile App`
@@ -147,11 +150,11 @@ AI-powered ancient Egyptian hieroglyph translation system.
 
 # 🌱 Currently Learning
 
-- Advanced Deep Learning
-- MLOps & Deployment
-- Software Architecture
-- Computer Vision Optimization
-- Scalable Backend Systems
+- Advanced Deep Learning  
+- MLOps & Deployment  
+- Software Architecture  
+- Computer Vision Optimization  
+- Scalable Backend Systems  
 
 ---
 
